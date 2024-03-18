@@ -113,6 +113,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
   registerText: {
+    padding: 20 , 
     marginTop: 20,
     color: 'blue',
     textDecorationLine: 'underline',
